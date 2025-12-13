@@ -1,0 +1,14 @@
+# Secrets
+.streamlit/secrets.toml
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Notebook 06 (demo setup - not for GitHub)
+notebooks/06-demo.ipynb
