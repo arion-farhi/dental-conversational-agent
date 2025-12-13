@@ -19,7 +19,7 @@ The live demo is fully functional—you can actually book appointments and watch
 
 The agent handles the full scheduling flow: checking availability, collecting patient info, confirming details, and booking to the calendar.
 
-![Booking Flow](screenshots/convo-2.png)
+![Booking Flow](screenshots/convo-3.png)
 
 ---
 
@@ -71,7 +71,7 @@ The agent retrieves accurate information about:
 - Insurance acceptance and payment options
 - Policies (cancellation, new patients, emergencies)
 
-![RAG Questions](screenshots/convo-3.png)
+![RAG Questions](screenshots/convo-5.png)
 
 ### 2. Duration-Aware Scheduling
 
@@ -102,7 +102,7 @@ Two locations with different hours:
 
 The agent knows which location the patient wants and only shows availability for that location.
 
-![Multi-turn Conversation](screenshots/convo-4.png)
+![Multi-turn Conversation](screenshots/convo-2.png)
 
 ---
 
