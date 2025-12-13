@@ -1,6 +1,6 @@
 # Dental Conversational/Scheduling Agent
 
-**[🚀 Live Demo](https://avalon-agent-50611883012.us-central1.run.app/)** | RAG-powered scheduling assistant with real-time calendar integration
+**[Live Demo](https://avalon-agent-50611883012.us-central1.run.app/)** | RAG-powered scheduling assistant with real-time calendar integration
 
 ---
 
