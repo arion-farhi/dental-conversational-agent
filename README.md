@@ -108,7 +108,7 @@ The agent knows which location the patient wants and only shows availability for
 
 ## Architecture
 ```
-                    CONVERSATION FLOW
+            CONVERSATION FLOW
         +---------------------------+
         |      Patient Message      |
         |   "Schedule a cleaning"   |
