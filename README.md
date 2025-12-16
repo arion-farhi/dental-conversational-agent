@@ -288,6 +288,4 @@ streamlit run app.py
 
 ## Author
 
-**Arion Farhi** - [GitHub](https://github.com/arion-farhi) | [LinkedIn](https://linkedin.com/in/arionfarhi)
-
-Former Regional Practice Operations Manager at Avalon Dental. Built this to solve the scheduling problems I dealt with every day.
+**Arion Farhi** - [GitHub](https://github.com/arion-farhi) | [LinkedIn](https://linkedin.com/in/arion-farhi)
